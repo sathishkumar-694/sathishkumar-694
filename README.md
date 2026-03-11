@@ -1,16 +1,63 @@
-## Hi there 👋
+# Sathish Kumar R
 
-<!--
-**sathishkumar-694/sathishkumar-694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pre-final year engineering student interested in software development, problem solving, and building web applications.
 
-Here are some ideas to get you started:
+I mainly work with Java for data structures and algorithms practice, and I use JavaScript and the MERN stack for web development projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+* Practicing data structures and algorithms using Java
+* Building small full stack applications with JavaScript and MERN
+* Familiar with SQL and database design
+* Exploring backend concepts and REST APIs
+
+---
+
+## Technologies
+
+**Programming**
+
+* Java
+* JavaScript
+
+**Web Development**
+
+* React
+* Node.js
+* Express.js
+* HTML
+* CSS
+
+**Backend / Tools**
+
+* Spring Boot (basic)
+* Playwright
+* REST APIs
+
+**Databases**
+
+* MongoDB
+* SQL
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+
+
+## GitHub Statistics
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar-694\&layout=compact)
+
+---
+
+## Contact
+
+GitHub: https://github.com/sathishkumar-694
+LinkedIn: https://www.linkedin.com/in/sathishr018/
