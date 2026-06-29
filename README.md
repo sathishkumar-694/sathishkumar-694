@@ -1,95 +1,106 @@
+
 <h1 align="center">Hi 👋, I'm Sathish Kumar R</h1>
-<h3 align="center">Software Developer • Problem Solver</h3>
+
+<h3 align="center">
+Software Developer • Backend Enthusiast • Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DCF91&center=true&vCenter=true&width=480&lines=Passionate+about+Coding+and+Problem+Solving;Java+Developer;Learning+Full+Stack+Development;Always+Learning%2C+Always+Improving"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3DCF91&center=true&vCenter=true&width=650&lines=Passionate+Software+Developer;Java+%7C+JavaScript+Developer;Learning+MERN+Stack+%26+System+Design;Data+Structures+%26+Algorithms;Always+Learning%2C+Always+Improving" />
 </p>
 
 ---
 
-### About Me
+## 👨‍💻 About Me
 
-I’m Sathish Kumar R, a pre-final year engineering student interested in software development and problem solving.
+🎓 Pre-final year Engineering Student
 
-Currently focusing on data structures and algorithms while learning Java full stack development. I enjoy building practical projects to understand how systems work and improve my programming skills.
+💻 Passionate about Software Development and Problem Solving
 
-My interests include backend development, system design, and scalable applications.
+🌱 Currently learning **MERN Stack**, **Data Structures & Algorithms**, and **Core Computer Science Concepts**
 
----
+🚀 Interested in **Backend Development**, **System Design**, and **Scalable Applications**
 
-### Tech Stack
+⚡ I enjoy building practical projects that strengthen my problem-solving skills and deepen my understanding of software engineering.
 
-#### Languages
+📫 Reach me at **sathishkumarr694@gmail.com**
 
-<p>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-</p>
-
-#### Frameworks
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-</p>
-
-#### Libraries
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-</p>
-
-
-#### Databases
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-</p>
-
-#### Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-</p>
+<br>
 
 ---
 
-### GitHub Stats
+## 🚀 Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<br>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sathishkumar-694&theme=tokyonight" height="170"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar-694&layout=compact&theme=tokyonight&langs_count=8" height="170"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=sathishkumar-694&theme=tokyonight&hide_border=true"/>
 </p>
+
+<br>
 
 ---
 
-### LeetCode
+## 💻 Coding Profiles
+
+<p align="center"> <a href="https://leetcode.com/sathishr018"> <img src="https://leetcard.jacoblin.cool/sathishr018?theme=dark&font=Nunito&ext=contest"/> </a> </p>
+
+<br>
+
+---
+
+## 🤝 Connect
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sathishr018?theme=dark&font=Baloo" height="180"/>
-</p>
-
----
-
-### Connect
-
-<p>
+  <a href="https://github.com/sathishkumar-694">
+    <img src="https://skillicons.dev/icons?i=github" width="35"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sathishr018">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:sathishkumarr694@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="35"/>
   </a>
 </p>
 
 ---
 
-<p align="center">Thanks for visiting my profile.</p>
+<p align="center">
+  <i>💡 Code. Learn. Build. Repeat.</i>
+</p>
