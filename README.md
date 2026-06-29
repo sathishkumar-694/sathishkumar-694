@@ -13,7 +13,7 @@ Software Developer • Backend Enthusiast • Problem Solver
 
 ## 👨‍💻 About Me
 
-🎓 Pre-final year Engineering Student
+🎓 Final year Engineering Student
 
 💻 Passionate about Software Development and Problem Solving
 
@@ -100,7 +100,3 @@ Software Developer • Backend Enthusiast • Problem Solver
 </p>
 
 ---
-
-<p align="center">
-  <i>💡 Code. Learn. Build. Repeat.</i>
-</p>
